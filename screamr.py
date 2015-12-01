@@ -12,6 +12,11 @@
 #       Black: Pin 6
 #       Brown: Pin 26
 
+#Breadboard
+#       PIR-VCC + Red: Positive Rail
+#       PIR-GRD + Black: Negative Rail
+#       PIR-OUT + Brown: Same Rail (Used 3B + 3C)
+
 import RPi.GPIO as GPIO
 import time
 
