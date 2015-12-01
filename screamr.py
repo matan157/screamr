@@ -5,7 +5,12 @@
 # Cables:
 #	PIR-VCC: Red
 #	PIR-OUT: Brown
-#	PIR-GND: Black 
+#	PIR-GND: Black
+
+#Pi GPIO Config:
+#       Red: Pin 2
+#       Black: Pin 6
+#       Brown: Pin 26
 
 import RPi.GPIO as GPIO
 import time
