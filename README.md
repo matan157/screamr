@@ -9,7 +9,7 @@ Well, all you have to do is download it, and run it with ``python3 screamr.py``.
 *I recommend setting the pi up where you want it and using SSH to run the script*
 
 **For those with RPi Zero, you need to either:**
-|   1) Solder in a 3.5mm audio output jack onto the RPiZero.
-|   2) Use a mini-HDMI to VGA convertor, and using the audio out on the convertor.
+    1) Solder in a 3.5mm audio output jack onto the RPiZero.
+    2) Use a mini-HDMI to VGA convertor, and using the audio out on the convertor.
 
 I use \#2
